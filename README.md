@@ -1,18 +1,11 @@
-[![CircleCI](https://circleci.com/gh/noahgift/udacity-devops-microservices.svg?style=svg&circle-token=644aca8c4c94ca89efb97a97d78a4025468b67cc)](https://circleci.com/gh/noahgift/udacity-devops-microservices)
+[![CircleCI](https://app.circleci.com/pipelines/github/keitamouss/dockerproject/4/workflows/0ddc33d5-c37c-47c8-9f02-f636115f16fa/jobs/4)
 
 # udacity-devops-microservices
 
 Udacity devops course on microservices
 
-## Proposed Kubernetes Example Steps
+## Proposed Setup AWS Docker Project
 
 * Setup and Configure Docker locally
-* Setup and Configure Kubernetes locally
-* Create Flask scikit-learn app in Container
-* Run via kubectl
-* Configure cluster and Deploy
-* Loadtest and verify auto-scale
+* Linting and CircleCI
 
-## Boston Housing Dataset Pickled model Colab
-
-https://github.com/noahgift/boston_housing_pickle
